@@ -1,4 +1,4 @@
 spring:
-	application:
-		name: cloud-native-spring_viv_lab21
+ application:
+  name: cloud-native-spring_viv_lab21
 greeting: Bonjour
